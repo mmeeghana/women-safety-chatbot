@@ -1,0 +1,11 @@
+{
+  "name": "Women Safety Chatbot",
+  "description": "A helpful AI chatbot for women to stay safe, get emergency tips, and report issues.",
+  "model": "meta-llama/Llama-3-3.7B-Instruct",
+  "prompts": [
+    "I feel unsafe, what should I do?",
+    "Can you share some safety tips?",
+    "How can I contact someone for help?",
+    "How do I report harassment?"
+  ]
+}
